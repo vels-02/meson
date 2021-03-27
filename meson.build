@@ -1,2 +1,2 @@
-project('cppsample', 'cpp')
-executable('cppsample', 'main.cpp', install : true)
+project('mesonsample', 'cpp')
+executable('mesonample', 'main.cpp', install : true)
